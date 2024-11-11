@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+I'm+Skye+%F0%9F%91%8B;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+I'm+Ayeong+%F0%9F%91%8B;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeoong&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 <br>
