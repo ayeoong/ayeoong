@@ -7,10 +7,9 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐶 About Me </h2> <br>
-    <div align="center">
+        <p>👩🏻‍🦱 Ayeong Kim, 김아영</p>
         <p>🏢 Captivision Korea(2023.08 ~ Now)</p>
         <p>🏫 Jeonju University(2019.03 ~ 2024.02)</p>
-    </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
